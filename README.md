@@ -47,3 +47,7 @@ Our results where obtained by:
 * Performing Random Undersampling to balance the training data. 
 * Hold-out 80-20 for as validation method.
 * Cost Sensitive learning with weights [5.0, 0.5] respectively.
+
+# Results
+We have published a paper with first version of this work.
+Luján-García JE, Yáñez-Márquez C, Villuendas-Rey Y, Camacho-Nieto O. A Transfer Learning Method for Pneumonia Classification and Visualization. Applied Sciences. 2020; 10(8):2908. https://doi.org/10.3390/app10082908
