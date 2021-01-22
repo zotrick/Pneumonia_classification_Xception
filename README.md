@@ -1,5 +1,5 @@
 # Pneumonia classification using Xception Network
-This projects uses Xception CNN for pneumonia classification with competitive results. We have used Keras and Tensorflow 2.0 for this network.
+This projects uses Xception CNN for pneumonia classification with competitive results. We have used Keras and Tensorflow 1.X for this network (2019). 
 
 ## Dataset
 We have used CELL pneumonia dataset v2.
