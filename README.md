@@ -39,6 +39,7 @@ We preprocess all the images with the following steps:
 3. Extract the central 299 x 299 region.
 
 Original paper:
+
 F. Pasa, V. Golkov, F. Pfeiffer, D. Cremers, and D. Pfeiffer, “Efficient Deep Network Architectures for Fast Chest X-Ray Tuberculosis Screening and Visualization,” Sci. Rep., vol. 9, no. 1, p. 6268, 2019, doi: 10.1038/s41598-019-42557-4.
 
 ## Class Imbalance
@@ -50,4 +51,5 @@ Our results where obtained by:
 
 # Results
 We have published a paper with first version of this work.
+
 Luján-García JE, Yáñez-Márquez C, Villuendas-Rey Y, Camacho-Nieto O. A Transfer Learning Method for Pneumonia Classification and Visualization. Applied Sciences. 2020; 10(8):2908. https://doi.org/10.3390/app10082908
